@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #727D73;
+}
+
+.name{
+    background-color:#AAB99A;
+    height: 65px;
+    display: flex;
+    align-items: center;
+}
+
+.nametext{
+    background-color: #AAB99A;
+    margin-left: 35px;
+    color: #3B3030;
+    text-decoration: underline #FFF0D1;
+
+}
+
+/* main css  */
+
+.hi{
+    margin-left:50px;
+    margin-top: 30px;
+    font-size: 25px;
+    color:#D0DDD0;
+}
+
+.dilpreet{
+    margin-left:75px;
+    font-size: 40px;
+    color:#F8E1B7;
+}
+
+.myinformation{
+    color: #C9E6F0;
+    font-size:25px;
+    margin-top:55px;
+    margin-left:80px;
+    height:225px;
+}
+
+.headingeducation{
+    color:#A79277;
+}
+
+.footertext{
+    background-color: #F0F0D7;
+    height: 100px;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.foottext{
+    background-color: #F0F0D7;
+    color: #3E5879;
+}
